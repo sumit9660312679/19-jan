@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    background-color: aliceblue;
+    box-sizing:border-box;
+    
+}
+img{
+    border-radius: 50%;
+    margin-top: 110px;
+    width: 130px;
+}
+.container h1{
+    position: absolute;
+    margin-left: 80px;
+    background-color: rebeccapurple;
+}
